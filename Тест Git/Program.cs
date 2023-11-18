@@ -1,7 +1,7 @@
-﻿
+﻿using System;
 Console.WriteLine("Ли Дон Ук - лучший актёр!");
 
-using System;
+
 
 class Actor
 {
