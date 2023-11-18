@@ -2,7 +2,6 @@
 Console.WriteLine("Ли Дон Ук - лучший актёр!");
 
 
-
 class Actor
 {
     public string Name { get; set; }
@@ -22,7 +21,7 @@ class Actor
     }
 }
 
-class Program
+partial class Program
 {
     static void Main()
     {
@@ -65,4 +64,3 @@ class Program
         }
     }
 }
-
